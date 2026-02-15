@@ -82,16 +82,7 @@
     <artifactId>slf4j-simple</artifactId>
     <version>2.0.13</version>
 </dependency>
-<dependency>
-    <groupId>commons-io</groupId>
-    <artifactId>commons-io</artifactId>
-    <version>2.11.0</version>
-</dependency>
-  	<dependency>
-  		<groupId>AutomationExersize_project</groupId>
-  		<artifactId>AutomationExersize_project</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+
   </dependencies>
 
 
